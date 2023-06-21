@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="label_search_artist">Search Artist</string>
+    <string name="label_song_name">Song Name</string>
+    <string name="label_artist">Artist</string>
+    <string name="label_albums">Albums</string>
+    <string name="label_min_input">Minimal input 4 huruf</string>
+    <string name="label_artist_name">Artist Name</string>
+
+
+</resources>
